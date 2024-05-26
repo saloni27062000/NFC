@@ -4400,12 +4400,12 @@ textarea.form-control-lg {
   /* color: white; */
 }
 
-.card-services:hover{
-  /* transform: scale(1.1); */
+/* .card-services:hover{
+  transform: scale(1.1);
   background-color: #000;
   color: white;
 
-}
+} */
 
 
 .card > hr {
@@ -4440,10 +4440,10 @@ textarea.form-control-lg {
 
 }
 
-.card-body:hover{
+/* .card-body:hover{
   border-top: rgb(255, 255, 255) solid 5px;
 
-}
+} */
 .card-title {
   margin-bottom: var(--bs-card-title-spacer-y);
   font-size: 25px;
